@@ -1,16 +1,7 @@
-//
-//  AppDelegate.swift
-//  fmrogachevPW2
-//
-//  Created by Feliks Rogachev on 30.09.2025.
-//
-
 import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
